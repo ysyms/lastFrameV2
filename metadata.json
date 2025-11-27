@@ -1,0 +1,5 @@
+{
+  "name": "LastFrame",
+  "description": "Instantly extract the final frame of any video file as a high-quality PNG image. Secure, local processing with no upload required.",
+  "requestFramePermissions": []
+}
